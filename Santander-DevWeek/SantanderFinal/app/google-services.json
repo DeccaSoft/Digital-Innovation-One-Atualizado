@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50651908003",
+    "project_id": "bancosantoandre-80ba3",
+    "storage_bucket": "bancosantoandre-80ba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50651908003:android:7a26c2202677a4d0d9bc16",
+        "android_client_info": {
+          "package_name": "com.example.santanderfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50651908003-ntvpkvhes8jl782g60u96pr62c2ntjmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZo34M9LI20rcUcyN8Zjcb4wurkAef9w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50651908003-ntvpkvhes8jl782g60u96pr62c2ntjmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
