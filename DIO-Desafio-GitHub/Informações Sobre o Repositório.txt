@@ -1,0 +1,11 @@
+O Desafio é criar este Repositório
+e alimentá-lo com pastas e arquivos durante os estudos com os cursos da DIO.
+
+Porém, como eu já vinha fazendo isto com repositório Digital-Innovation-One-Atualizado
+(que, inclusive, este repositório encontra-se dentro dele), 
+decidi apenas fazer este arquivo contendo essa informação...
+
+Para se ter acesso a todos os arquivos e pastas deste desafio e de todos os demais cursos da DIO
+acesse o repositório Digital-Innovation-One-Atualizado.
+
+André
